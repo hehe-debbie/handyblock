@@ -1,6 +1,7 @@
 #test commit
 import colorsys
 #测试git，增加一些注释
+#测试branch，增加一个分支：develop
 import json
 import logging
 import os
