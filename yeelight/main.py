@@ -2,8 +2,11 @@
 import colorsys
 #测试git，增加一些注释
 #测试branch，增加一个分支：develop
+<<<<<<< HEAD
 #在develop分支上增加一些注释
 #测试reverse，再增加一些注释
+=======
+>>>>>>> parent of c72564e... 在develop上增加一些测试
 import json
 import logging
 import os
